@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :video_camera: Application using Vite, TypeScript, Redux Toolkit, zustand, Tailwind CSS, Scrollbar Plugin for Tailwind CSS, Lucide, ReactPlayer, Collapsible - Radix UI, JSON Server and consuming the features of the JSON Server API. 
+  :video_camera: Application using Vite, TypeScript, Redux Toolkit, zustand, Tailwind CSS, Scrollbar Plugin for Tailwind CSS, Lucide, ReactPlayer, Collapsible - Radix UI, JSON Server, Redux DevTools and consuming the features of the JSON Server API. 
   Unitary tests with vitest
 </p>
 
@@ -58,6 +58,8 @@ npm run dev | yarn dev
 # Run tests
 npm run test | yarn test
 ```
+
+Click to learn more about the tools used: [Redux DevTools](https://github.com/osvaldokalvaitir/awesome/blob/main/src/browsers/chrome/extensions/redux-devtools.md).
 
 ## :memo: License
 
